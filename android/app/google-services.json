@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "667227505341",
+    "project_id": "fir-6b182",
+    "storage_bucket": "fir-6b182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667227505341:android:93d92e7c33136359462dd4",
+        "android_client_info": {
+          "package_name": "com.example.app_amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667227505341-33fp2p2kqqorb8ueos758mtd0db3na29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8zVAMULVY16F4VqScNZ1xKfkKZ2gzyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667227505341-33fp2p2kqqorb8ueos758mtd0db3na29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667227505341-jgm3am8t9kncatgndrdsufsqq1uknqsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appAmazon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667227505341:android:26737d090e414124462dd4",
+        "android_client_info": {
+          "package_name": "com.example.book_store_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667227505341-33fp2p2kqqorb8ueos758mtd0db3na29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv8zVAMULVY16F4VqScNZ1xKfkKZ2gzyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667227505341-33fp2p2kqqorb8ueos758mtd0db3na29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667227505341-jgm3am8t9kncatgndrdsufsqq1uknqsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appAmazon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
